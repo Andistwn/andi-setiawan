@@ -1,16 +1,4 @@
 # andi-setiawan.github.io/
-├── index.html          // Halaman utama portofolio Anda
-├── css/
-│   └── style.css       // File CSS untuk styling
-├── js/
-│   └── script.js       // File JavaScript (jika diperlukan interaktivitas)
-├── images/             // Folder untuk gambar profil, logo, dll.
-│   └── profile.jpg
-└── projects/           // Folder opsional untuk halaman detail proyek
-    ├── project-1/
-    │   └── index.html
-    └── project-2/
-        └── index.html
         <!DOCTYPE html>
 <html lang="en">
 <head>
