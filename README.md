@@ -17,21 +17,4 @@
                 <li><a href="#projects">Proyek</a></li>
                 <li><a href="#skills">Keahlian</a></li>
                 <li><a href="#contact">Kontak</a></li>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-        <section id="hero">
-            <div class="hero-content">
-                <h1>Halo, saya [Nama Anda]</h1>
-                <p>Seorang [Peran Anda, misal: Pengembang Perangkat Lunak] dengan fokus pada [Teknologi/Bidang Anda].</p>
-                <a href="#projects" class="btn-primary">Lihat Proyek Saya</a>
-            </div>
-            <div class="hero-image">
-                <img src="images/profile.jpg" alt="Foto Profil Anda">
-            </div>
-        </section>
-
-
-
+    
